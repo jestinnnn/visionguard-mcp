@@ -1,0 +1,30 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Environment variables
+.env
+
+# Generated reports
+report.pdf
+*.pdf
+
+# Generated debug images
+debug_eye_analysis.jpg
+*.jpg
+*.jpeg
+*.png
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db

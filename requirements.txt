@@ -1,6 +1,8 @@
-mcp
+fastapi
+uvicorn
 opencv-python
 mediapipe
 numpy
 google-generativeai
 reportlab
+pydantic
